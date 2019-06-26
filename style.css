@@ -1,0 +1,34 @@
+@font-face {
+	font-family: 'Ubuntu';
+	src: url('ubuntu-b.ttf') format('truetype');
+}
+
+body {
+	background-image: url("Middlesbrough_Transporter_Bridge.jpg");
+	background-size: 1450px;
+	background-repeat: no-repeat;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	font-family: Ubuntu;
+	font-size: 40px;
+}
+
+h4 {
+
+	color: white;
+	font-family: Ubuntu;
+	text-align:center;
+}
+
+div.spacer {
+	height: 100px;
+}
+
+div.wrapper {
+	margin: 0 auto;
+	width: 800px;
+}
+	
